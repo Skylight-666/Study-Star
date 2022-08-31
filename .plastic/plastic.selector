@@ -1,0 +1,4 @@
+repository "Study-Star@ssl://skylight666@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
